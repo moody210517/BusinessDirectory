@@ -1,0 +1,258 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoonbdff.eot?ua7ahp');
+  src:  url('../fonts/icomoonbdff.eot?ua7ahp#iefix') format('embedded-opentype'),
+    url('../fonts/icomoonbdff.ttf?ua7ahp') format('truetype'),
+    url('../fonts/icomoonbdff.woff?ua7ahp') format('woff'),
+    url('../fonts/icomoonbdff.svg?ua7ahp#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fencing:before {
+  content: "\e900";
+}
+.icon-maintainance:before {
+  content: "\e901";
+}
+.icon-planting:before {
+  content: "\e902";
+}
+.icon-watering:before {
+  content: "\e903";
+}
+.icon-thumbs:before {
+  content: "\e904";
+}
+.icon-fall-cleanup:before {
+  content: "\e905";
+}
+.icon-garden-care:before {
+  content: "\e906";
+}
+.icon-integration-and-drainage:before {
+  content: "\e907";
+}
+.icon-snow-removing:before {
+  content: "\e908";
+}
+.icon-urban-gardening:before {
+  content: "\e909";
+}
+.icon-watering2:before {
+  content: "\e90a";
+}
+.icon-address:before {
+  content: "\e90b";
+}
+.icon-call:before {
+  content: "\e90c";
+}
+.icon-hour:before {
+  content: "\e90d";
+}
+.icon-mail:before {
+  content: "\e90e";
+}
+.icon-why-choose-1:before {
+  content: "\e90f";
+}
+.icon-why-choose-2:before {
+  content: "\e910";
+}
+.icon-why-choose-3:before {
+  content: "\e911";
+}
+.icon-why-choose-4:before {
+  content: "\e912";
+}
+.icon-call-back:before {
+  content: "\e913";
+}
+.icon-caring:before {
+  content: "\e914";
+}
+.icon-Digging:before {
+  content: "\e915";
+}
+.icon-fun-fact-01:before {
+  content: "\e916";
+}
+.icon-fun-fact-02:before {
+  content: "\e917";
+}
+.icon-fun-fact-03:before {
+  content: "\e918";
+}
+.icon-gardening:before {
+  content: "\e919";
+}
+.icon-grass-triming:before {
+  content: "\e91a";
+}
+.icon-grass:before {
+  content: "\e91b";
+}
+.icon-planting-and-growth:before {
+  content: "\e91c";
+}
+.icon-price-1:before {
+  content: "\e91d";
+}
+.icon-price-2:before {
+  content: "\e91e";
+}
+.icon-price-3:before {
+  content: "\e91f";
+}
+.icon-urban-gardening2:before {
+  content: "\e920";
+}
+.icon-contact_1:before {
+  content: "\e921";
+  color: inherit;
+}
+.icon-contact_2:before {
+  content: "\e922";
+  color: inherit;
+}
+.icon-contact_3:before {
+  content: "\e923";
+  color: inherit;
+}
+.icon-contact_12:before {
+  content: "\e924";
+  color: inherit;
+}
+.icon-contact_22:before {
+  content: "\e925";
+  color: inherit;
+}
+.icon-contact_32:before {
+  content: "\e926";
+  color: inherit;
+}
+.icon-contact_4:before {
+  content: "\e927";
+  color: inherit;
+}
+.icon-pricing_1:before {
+  content: "\e928";
+}
+.icon-pricing_2:before {
+  content: "\e929";
+}
+.icon-pricing_3:before {
+  content: "\e92a";
+}
+.icon-client_review:before {
+  content: "\e92b";
+  color: inherit;
+}
+.icon-Free_tips:before {
+  content: "\e92c";
+  color: inherit;
+}
+.icon-fun_fact_1:before {
+  content: "\e92d";
+  color: inherit;
+}
+.icon-fun_fact_2:before {
+  content: "\e92e";
+  color: inherit;
+}
+.icon-fun_fact_3:before {
+  content: "\e92f";
+  color: inherit;
+}
+.icon-fun_fact_4:before {
+  content: "\e930";
+  color: inherit;
+}
+.icon-iso:before {
+  content: "\e931";
+  color: inherit;
+}
+.icon-number_1:before {
+  content: "\e932";
+  color: inherit;
+}
+.icon-Our_service_1:before {
+  content: "\e933";
+  color: inherit;
+}
+.icon-Our_service_2:before {
+  content: "\e934";
+  color: inherit;
+}
+.icon-Our_service_3:before {
+  content: "\e935";
+  color: inherit;
+}
+.icon-Our_service_4:before {
+  content: "\e936";
+  color: inherit;
+}
+.icon-pricing_12:before {
+  content: "\e937";
+  color: inherit;
+}
+.icon-pricing_22:before {
+  content: "\e938";
+  color: inherit;
+}
+.icon-pricing_32:before {
+  content: "\e939";
+  color: inherit;
+}
+.icon-recent_work_1:before {
+  content: "\e93a";
+  color: inherit;
+}
+.icon-recent_work_2:before {
+  content: "\e93b";
+  color: inherit;
+}
+.icon-recent_work_3:before {
+  content: "\e93c";
+  color: inherit;
+}
+.icon-recent_work_4:before {
+  content: "\e93d";
+  color: inherit;
+}
+.icon-recent_work_5:before {
+  content: "\e93e";
+  color: inherit;
+}
+.icon-recent_work_6:before {
+  content: "\e93f";
+  color: inherit;
+}
+.icon-service_1:before {
+  content: "\e940";
+  color: inherit;
+}
+.icon-service_2:before {
+  content: "\e941";
+  color: inherit;
+}
+.icon-service_3:before {
+  content: "\e942";
+  color: inherit;s
+}
